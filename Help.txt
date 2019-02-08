@@ -1,0 +1,7 @@
+Chrome Trex++
+
+Salte sobre obstáculos, desvie de pterodáctilos com o fenomenal dinossauro do Google Chrome, agora no seu terminal do Linux!
+
+Controles:
+    Pular: Tecla de Espaço ou Seta para Cima
+    Abaixar: Seta para Baixo
