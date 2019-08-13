@@ -1,8 +1,3 @@
-# ========================================================
-# >> UFPR 2017 - João Vitor Moreira  - GRR20171621     <<
-# >> UFPR 2017 - Igor Segalla Farias - GRR20176543     <<
-# ========================================================
-
 CFLAGS = -Wall
 
 LDLIBS = $(OBJETOS) -lncurses
